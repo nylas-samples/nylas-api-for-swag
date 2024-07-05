@@ -19,9 +19,8 @@
 
 7. Use any one of the following code samples to send an email to `devrel` @ `nylas.com` and head over to the Nylas booth to pick up your swag!
 
-- cURL: https://github.com/nylas/docs/blob/main/v3_code_samples/messages/POST/curl.sh
-- Node: https://github.com/nylas/docs/blob/main/v3_code_samples/messages/POST/node.js
-- Python: https://github.com/nylas/docs/blob/main/v3_code_samples/messages/POST/python.py
-- Java: https://github.com/nylas/docs/blob/main/v3_code_samples/messages/POST/java.java
-- Kotlin: https://github.com/nylas/docs/blob/main/v3_code_samples/messages/POST/kotlin.kt
-- Ruby: https://github.com/nylas/docs/blob/main/v3_code_samples/messages/POST/ruby.rb
+- cURL: https://github.com/nylas/docs/blob/main/v3_code_samples/messages/POST/curl.sh [TODO: Create Repository]
+- [Send Email using Node Nylas SDK](https://github.com/nylas-samples/node-email-send) [TODO: Add v3 Branch]
+- [Send Email using Python Nylas SDK](https://github.com/nylas-samples/python-email-send/tree/python_v3)
+- [Send Email using Java Nylas SDK](https://github.com/nylas-samples/java-email-send-form/tree/java-v3)
+- [Send Email using Ruby Nylas SDK](https://github.com/nylas-samples/ruby-email-send/tree/Ruby_V3)
