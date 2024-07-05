@@ -3,7 +3,7 @@
 Use the Nylas APIs for Swag!
 
 ## Steps to Swag!
-0. Join us at the Nylas Booth!
+0. Feel free to hangout with us at the Nylas Booth!
 2. [Join Nylas for Free!](https://hubs.ly/Q02CgmYW0)
 3. Create an new app:
 <img width="618" alt="Screenshot 2024-07-05 at 4 19 47 PM" src="https://github.com/nylas-samples/nylas-api-for-swag/assets/553578/b3c23bc9-09fe-446e-bc3e-7b7cc774c6a0">
