@@ -2,7 +2,7 @@
 ## Event Contest
 Use the Nylas APIs for Swag!
 
-## Swag in 5 steps
+## Steps to Swag!
 0. Join us at the Nylas Booth!
 2. [Join Nylas for Free!](https://hubs.ly/Q02CgmYW0)
 3. Create an new app:
