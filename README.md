@@ -17,9 +17,7 @@
 6. Create an `API Key` (record this value to use shortly):
 <img width="826" alt="Screenshot 2024-07-05 at 4 28 09 PM" src="https://github.com/nylas-samples/nylas-api-for-swag/assets/553578/7e57c32a-1a4b-40e4-bcc4-21cd5c9e66e6">
 
-7. Use any one of the following code samples to send an email to `devrel` @ `nylas.com` and head over to the Nylas booth to pick up your swag!
-
-Ensure to use the correct Nylas v3 API Url for your region (EU: `https://api.eu.nylas.com`, US: `https://api.us.nylas.com`)
+7. Use any one of the following code samples to send an email to `devrel` @ `nylas.com` and head over to the Nylas booth to pick up your swag! Ensure to use the correct Nylas v3 API Url for your region (EU: `https://api.eu.nylas.com`, US: `https://api.us.nylas.com`)
 
 - cURL [TODO: Create Repository]
 - [Send Email using Node Nylas SDK](https://github.com/nylas-samples/node-email-send) [TODO: Add v3 Branch, Support for API URL required]
