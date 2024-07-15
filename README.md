@@ -12,7 +12,7 @@
 
 3. `Try a quickstart guide` section is optional, let's skip that for now.
 
-4. Click on `Add a test grant` to connect your Email provider (we will use the Grant Id shortly):
+4. Click on `Add a test grant` to connect your Email provider (record the Grant Id to use shortly):
 
 <img width="600" alt="Screenshot 2024-07-05 at 4 24 11 PM" src="https://github.com/nylas-samples/nylas-api-for-swag/assets/553578/1926c2e5-fae1-4242-95ca-ae74bf876321">
 
