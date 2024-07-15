@@ -12,6 +12,7 @@
 
 <img width="708" alt="Screenshot 2024-07-05 at 4 24 11 PM" src="https://github.com/nylas-samples/nylas-api-for-swag/assets/553578/1926c2e5-fae1-4242-95ca-ae74bf876321">
 
+Here is what the `Add a test grant` flow looks like:
 ![create-grant-id](https://github.com/nylas-samples/nylas-api-for-swag/assets/553578/2159d91a-4fca-4832-a204-d19bb8d9ff4a)
 
 6. Create an `API Key` (record this value to use shortly):
