@@ -1,6 +1,6 @@
 # APIs for Swag!
 
-## Just 5 Steps to Swag!
+## Steps to Swag!
 
 0. Feel free to hangout with us at the Nylas Booth! We are at `Hall A booth A_05`:
 <img src="https://github.com/user-attachments/assets/622a45d8-9df3-406d-9764-1dc854c07b09" width="400">
