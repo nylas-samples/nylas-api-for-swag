@@ -23,7 +23,7 @@ Here is what the `Add a test grant` flow looks like:
 5. Create an `API Key` (record this value to use shortly):
 <img width="600" alt="Screenshot 2024-07-05 at 4 28 09 PM" src="https://github.com/nylas-samples/nylas-api-for-swag/assets/553578/7e57c32a-1a4b-40e4-bcc4-21cd5c9e66e6">
 
-6. Use any one of the following code samples to send an email to `devrel` @ `nylas.com` and head over to the Nylas booth to pick up your swag!
+6. Using any one of the following code samples, send an email to `devrel` @ `nylas.com` and head over to the Nylas booth to pick up your swag!
 
 **Note:** Ensure to use the correct Nylas v3 API Url for your region (EU: `https://api.eu.nylas.com`, US: `https://api.us.nylas.com`)
 
