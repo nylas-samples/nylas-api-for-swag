@@ -12,7 +12,7 @@
 
 3. `Try a quickstart guide` section is optional, let's skip that for now.
 
-4. Click on `Add a test grant` to connect your Email provider (record the Grant Id to use shortly):
+4. Click on `Add a test grant` to connect your Email provider (record the `NYLAS_GRANT_ID` to use shortly):
 
 <img width="600" alt="Screenshot 2024-07-05 at 4 24 11 PM" src="https://github.com/nylas-samples/nylas-api-for-swag/assets/553578/1926c2e5-fae1-4242-95ca-ae74bf876321">
 
@@ -20,7 +20,7 @@ Here is what the `Add a test grant` flow looks like:
 
 <img src="https://github.com/nylas-samples/nylas-api-for-swag/assets/553578/2159d91a-4fca-4832-a204-d19bb8d9ff4a" width="600">
 
-5. Create an `API Key` (record this value to use shortly):
+5. Create an `API Key` (record `NYLAS_API_KEY` to use shortly):
 <img width="600" alt="Screenshot 2024-07-05 at 4 28 09 PM" src="https://github.com/nylas-samples/nylas-api-for-swag/assets/553578/7e57c32a-1a4b-40e4-bcc4-21cd5c9e66e6">
 
 6. Using any one of the following code samples, send an email to `devrel` @ `nylas.com` and head over to the Nylas booth to pick up your swag!
