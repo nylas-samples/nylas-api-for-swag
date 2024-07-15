@@ -22,6 +22,6 @@ Here is what the `Add a test grant` flow looks like:
 
 - [Send Email using Nylas API](https://github.com/nylas-samples/curl-send-email/tree/main)
 - [Send Email using Node Nylas SDK](https://github.com/nylas-samples/node-email-send/tree/main-v3)
-- [Send Email using Python Nylas SDK](https://github.com/nylas-samples/python-email-send/tree/python_v3) [TODO: Support for API URL required]
-- [Send Email using Java Nylas SDK](https://github.com/nylas-samples/java-email-send-form/tree/java-v3) [TODO: Support for API URL required]
-- [Send Email using Ruby Nylas SDK](https://github.com/nylas-samples/ruby-email-send/tree/Ruby_V3) [TODO: Support for API URL required]
+- [Send Email using Python Nylas SDK](https://github.com/nylas-samples/python-email-send/tree/python_v3)
+- [Send Email using Java Nylas SDK](https://github.com/nylas-samples/java-email-send-form/tree/java-v3)
+- [Send Email using Ruby Nylas SDK](https://github.com/nylas-samples/ruby-email-send/tree/Ruby_V3)
