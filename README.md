@@ -20,7 +20,7 @@ Here is what the `Add a test grant` flow looks like:
 
 7. Use any one of the following code samples to send an email to `devrel` @ `nylas.com` and head over to the Nylas booth to pick up your swag! Ensure to use the correct Nylas v3 API Url for your region (EU: `https://api.eu.nylas.com`, US: `https://api.us.nylas.com`)
 
-- [Send Email using Nylas API](https://github.com/nylas-samples/curl-send-email/tree/main)
+- [Send Email using Nylas API via cURL](https://github.com/nylas-samples/curl-send-email/tree/main)
 - [Send Email using Node Nylas SDK](https://github.com/nylas-samples/node-email-send/tree/main-v3)
 - [Send Email using Python Nylas SDK](https://github.com/nylas-samples/python-email-send/tree/python_v3)
 - [Send Email using Java Nylas SDK](https://github.com/nylas-samples/java-email-send-form/tree/java-v3)
