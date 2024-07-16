@@ -25,11 +25,17 @@ Here is what the `Add a test grant` flow looks like:
 
 6. Using any one of the following code samples, send an email to `devrel` @ `nylas.com` and head over to the Nylas booth to pick up your swag!
 
+**Note:** Ensure to use the correct `NYLAS_API_URI` for your app's region: 
+<br/>
+- EU: `https://api.eu.nylas.com`
+- US: `https://api.us.nylas.com`
+
+You can check the data residency from the dashboard for EU: 🇪🇺 or US: 🇺🇸:
+<img width="600" alt="Screenshot 2024-07-16 at 8 18 29 AM" src="https://github.com/user-attachments/assets/adf5a018-cefa-4805-b17a-5ae85e35b4d2">
+
 - [Send Email using Nylas API via cURL](https://github.com/nylas-samples/curl-send-email/tree/main)
 - [Send Email using Node Nylas SDK](https://github.com/nylas-samples/node-email-send/tree/main-v3)
 - [Send Email using Python Nylas SDK](https://github.com/nylas-samples/python-email-send/tree/python_v3)
 - [Send Email using Java Nylas SDK](https://github.com/nylas-samples/java-email-send-form/tree/java-v3)
 - [Send Email using Ruby Nylas SDK](https://github.com/nylas-samples/ruby-email-send/tree/Ruby_V3)
 
-**Note:** Ensure to use the correct `NYLAS_API_URI` for your app's region (EU: `https://api.eu.nylas.com`, US: `https://api.us.nylas.com`). You can check the data residency from the dashboard for EU: 🇪🇺 or US: 🇺🇸:
-<img width="600" alt="Screenshot 2024-07-16 at 8 18 29 AM" src="https://github.com/user-attachments/assets/adf5a018-cefa-4805-b17a-5ae85e35b4d2">
