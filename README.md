@@ -2,10 +2,7 @@
 
 ## Steps to Swag!
 
-0. Join us at the Nylas Booth! We are at `Hall A booth A_05`:
-<img src="https://github.com/user-attachments/assets/622a45d8-9df3-406d-9764-1dc854c07b09" width="400">
-
-1. <a href="https://dashboard-v3.nylas.com/register?utm_campaign=wearedevs-berlin-q2-24&utm_source=conference&utm_medium=wearedevelopers-swagchallenge" target="_blank">Join Nylas for Free!</a>
+1. <a href="https://dashboard-v3.nylas.com/register?utm_campaign=wearedevs-berlin-q2-24&utm_source=web&utm_medium=devrel-surfaces&utm_campaign=api-4-swag-contest" target="_blank">Join Nylas for Free!</a>
 
 2. Create a new app, select the `sandbox` environment (to use Nylas for free!):
 <img width="400" alt="Screenshot 2024-07-05 at 4 19 47 PM" src="https://github.com/nylas-samples/nylas-api-for-swag/assets/553578/b3c23bc9-09fe-446e-bc3e-7b7cc774c6a0">
