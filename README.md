@@ -1,4 +1,5 @@
 # APIs for Swag!
+<img width="350" src="https://github.com/user-attachments/assets/8f1af341-83f9-40e3-9651-15cf88183514">
 
 ## Steps to Swag!
 
