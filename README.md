@@ -36,3 +36,6 @@ You can check the data residency from the dashboard for EU: 🇪🇺 or US: 🇺
 - [Send Email using Java Nylas SDK](https://github.com/nylas-samples/java-email-send-form/tree/java-v3)
 - [Send Email using Ruby Nylas SDK](https://github.com/nylas-samples/ruby-email-send/tree/Ruby_V3)
 
+7. Drop a message on socials
+
+Share with others that you tried out the Nylas Email API on [X](https://twitter.com/intent/tweet?text=I%20just%20called%20the%20%40Nylas%20Email%20API%20to%20send%20an%20email%20from%20my%20own%20account%21%20%F0%9F%9A%80%20Check%20out%20the%20%23API4Swag%20contest%20to%20try%20it%20for%20yourself%20and%20get%20cool%20swag%21%20%F0%9F%8E%81) or [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.yourpage.com%2Fapi4swag)
