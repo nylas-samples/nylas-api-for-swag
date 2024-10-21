@@ -37,10 +37,5 @@ You can check the data residency from the dashboard for EU: 🇪🇺 or US: 🇺
 - [Send Email using Java Nylas SDK](https://github.com/nylas-samples/java-email-send-form/tree/java-v3)
 - [Send Email using Ruby Nylas SDK](https://github.com/nylas-samples/ruby-email-send/tree/Ruby_V3)
 
-### 7. Drop a message on socials
-
-Share with others that you tried out the Nylas Email API on
-<a href="https://twitter.com/intent/tweet?text=I%20just%20called%20the%20%40Nylas%20Email%20API%20to%20send%20a%20message%20from%20my%20email%20account%21%20%F0%9F%9A%80%20" target="_blank">X</a> OR <a href="https://www.linkedin.com/sharing/share-offsite/?url=www.nylas.com" target="_blank"> LinkedIn </a>
-
-### 8. Enter Swag Draw
+### 7. Enter Swag Draw
 Be on the lookout from a message from `devrel` @ `nylas.com`. We will send over a short form once you use the Nylas Email API to ensure you enter the draw for swag! It will be sent to your email account used to send the message.
