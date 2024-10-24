@@ -1,5 +1,5 @@
 # APIs for Swag!
-<img width="350" src="https://github.com/user-attachments/assets/8f1af341-83f9-40e3-9651-15cf88183514">
+![DALL·E 2024-10-24 11 51 59 - A cartoon-style astronaut wearing a colorful spacesuit, raising one hand in a friendly wave  The spacesuit is bright and playful with vibrant colors s](https://github.com/user-attachments/assets/786cc401-fb23-4b2c-930f-573712ad44ee)
 
 ## Steps to Swag!
 
