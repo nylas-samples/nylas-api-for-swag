@@ -37,5 +37,5 @@ You can check the data residency from the dashboard for EU: 🇪🇺 or US: 🇺
 - [Send Email using Java Nylas SDK](https://github.com/nylas-samples/java-email-send-form/tree/java-v3)
 - [Send Email using Ruby Nylas SDK](https://github.com/nylas-samples/ruby-email-send/tree/Ruby_V3)
 
-### 7. Enter Swag Draw
-Be on the lookout from a message from `devrel` @ `nylas.com`. We will send over a short form once you use the Nylas Email API! It will be sent to your email account used to send the message.
+### 7. Share your details
+Be on the lookout for a message from `devrel` @ `nylas.com`. We will send over a short form once you use the Nylas Email API! It will be sent to your email account used to send the message.
