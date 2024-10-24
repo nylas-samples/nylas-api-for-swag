@@ -1,7 +1,7 @@
-# APIs for Swag!
+# Send an email using the Nylas Email API!
 <img width="400" alt="Screenshot 2024-07-05 at 4 19 47 PM" src="https://github.com/user-attachments/assets/786cc401-fb23-4b2c-930f-573712ad44ee">
 
-## Steps to Swag!
+## Steps (including code)!
 
 ### 1. <a href="https://dashboard-v3.nylas.com/register?utm_source=web&utm_medium=devrel-surfaces&utm_campaign=api-4-swag&utm_content=api-4-swag-repo" target="_blank">Join Nylas for Free!</a>
 
